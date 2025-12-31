@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Mern Stack**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on open-source MERN projects, web applications, and beginner-friendly full-stack projects.**
+- 👯 **I’m looking to collaborate on open-source MERN projects, web applications, and beginner-friendly full-stack projects.**
 
-- 🤝 I’m looking for help with **I’m looking for help with improving my MERN stack skills, best practices in React, and building scalable backend APIs.**
+- 🤝 **I’m looking for help with improving my MERN stack skills, best practices in React, and building scalable backend APIs.**
 
 - 💬 Ask me about **MongoDB,Express React, Node.js**
 
